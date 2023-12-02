@@ -1,0 +1,151 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+body {
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 0px 0px 0px 0px;
+}
+.top_1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 285px;
+	height: 201px;
+	flex-shrink: 0;
+	margin: 70px 0px 0px 0px;
+}
+.log {
+	width: 140px;
+	height: 108px;
+}
+.emp_1 {
+	color: #FFF;
+	font-family: Montserrat;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	margin: 30px 0px 0px 0px;
+}
+.emp_2 {
+	color: rgba(255, 255, 255, 0.61);
+	font-family: Montserrat;
+	font-size: 17.305px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	margin: 10px 0px 0px 0px;
+}
+.social_1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 859px;
+	height: 389px;
+	margin: 50px 0px 0px 0px;
+}
+.SM_1 {
+	color: #FFF;
+	font-family: Montserrat;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin: 0px 0px 15px 0px;
+}
+.TG {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 859px;
+	height: 84px;
+	flex-shrink: 0;
+}
+.TG_1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 699px;
+	height: 62px;
+	border-radius: 30px;
+	border: 2px solid #FFF;
+	background: #000;
+	flex-shrink: 0;
+}
+.TG_IMG {
+	width: 46px;
+	height: 46px;
+	flex-shrink: 0;
+	margin: 0px 0px 0px 8px
+}
+.TG_IMG_1 {
+	width: 46px;
+	height: 46px;
+	flex-shrink: 0;
+	margin: 0px 8px 0px 0px;
+	opacity: 0%;
+}
+.tg_txt {
+	color: #FFF;
+	font-family: Montserrat;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin: 0px 0px 0px 0px;
+}
+.social_2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 859px;
+	height: 211px;
+	margin: 30px 0px 0px 0px;
+}
+
+.social_3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 859px;
+	height: 122px;
+	margin: 30px 0px 0px 0px;
+}
+.mail {
+	color: #FFF;
+	font-family: Montserrat;
+	font-size: 19.778px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	opacity: 0.61;
+	margin: 20px 0px 20px 0px;
+}
+.gr {
+	flex: 1 1 auto;
+	width: 100%;
+	height: 50px;
+	background: rgb(255,81,47);
+	background: linear-gradient(90deg, rgba(255,81,47,1) 0%, rgba(240,152,25,1) 100%);
+}
+a {
+	text-decoration: none;
+	transition: all 0.08s linear;
+}
+a:hover {
+	transform: scale(1.02);
+}
+.TG_1 {
+	transition: all 0.08s linear;
+}
+.TG_1:hover {
+	
+}
